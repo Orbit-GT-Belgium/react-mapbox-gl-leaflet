@@ -1,0 +1,16 @@
+{
+  "name": "eact-mapbox-gl-leaflet",
+  "main": "./index.js",
+  "directories": {
+    "lib": "./lib",
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "mapbox-gl": "^1.4.0",
+    "mapbox-gl-leaflet": "^0.0.10",
+  }
+}
