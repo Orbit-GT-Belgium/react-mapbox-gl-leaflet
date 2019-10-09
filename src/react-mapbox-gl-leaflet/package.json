@@ -1,5 +1,5 @@
 {
-  "name": "eact-mapbox-gl-leaflet",
+  "name": "react-mapbox-gl-leaflet",
   "main": "./index.js",
   "directories": {
     "lib": "./lib",
